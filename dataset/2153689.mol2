@@ -1,0 +1,77 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+@<TRIPOS>MOLECULE
+KAYTIR
+    24    23     3     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C1       6.6988  12.2756   5.7359   C.2       1 RES1   0.0000
+     2 H1       7.4889  12.4378   5.2343   H         1 RES1   0.0000
+     3 C2       6.0757  13.3508   6.3383   C.2       1 RES1   0.0000
+     4 H2       6.4317  14.2271   6.2450   H         1 RES1   0.0000
+     5 C3       4.9282  13.1368   7.0784   C.2       1 RES1   0.0000
+     6 C4       4.4635  11.8425   7.1698   C.2       1 RES1   0.0000
+     7 H4       3.6721  11.6519   7.6601   H         1 RES1   0.0000
+     8 C5       5.1535  10.8225   6.5448   C.2       1 RES1   0.0000
+     9 H5       4.8280   9.9345   6.6391   H         1 RES1   0.0000
+    10 C6       4.1723  14.2137   7.7280   C.2       1 RES1   0.0000
+    11 Cu1      6.4711  15.6150   9.2682   Cu        1 RES1   0.0000
+    12 N1       4.6687  15.3876   8.1541   N.2       1 RES1   0.0000
+    13 N2       3.5982  16.0314   8.6632   N.2       1 RES1   0.0000
+    14 N3       2.5278  15.2588   8.5378   N.2       1 RES1   0.0000
+    15 N4       2.8685  14.1100   7.9599   N.2       1 RES1   0.0000
+    16 N5       6.2515  11.0198   5.8188   N.2       1 RES1   0.0000
+    17 Cu1      0.7115  15.6150   9.2682   Cu        1 RES1   0.0000
+    18 Cu1      3.5178  17.8290   9.5874   Cu        1 RES1   0.0000
+    19 Cu1      6.8537   9.4680   4.5543   Cu        1 RES1   0.0000
+    20 N2       6.3907  17.4126  10.1924   N.3       1 RES1   0.0000
+    21 N3       8.2874  15.2588   8.5378   N.3       1 RES1   0.0000
+    22 N5       5.8689  14.0632  10.5327   N.3       1 RES1   0.0000
+    23 OCl1     2.4972   0.0000   4.7139   O.3       2 RES2   0.0000
+    24 OCl1'?    0.7352   0.2174   4.7799   O.3       3 RES3   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    2
+     3     1    16    1
+     4     3     4    1
+     5     3     5    1
+     6     5     6    2
+     7     5    10    1
+     8     6     7    1
+     9     6     8    1
+    10     8     9    1
+    11     8    16    2
+    12    10    12    1
+    13    10    15    2
+    14    11    12    1
+    15    11    20    1
+    16    11    21    1
+    17    11    22    1
+    18    12    13    1
+    19    13    14    1
+    20    13    18    1
+    21    14    15    1
+    22    14    17    1
+    23    16    19    1
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
+     2 RES2       23 GROUP             0 ****  ****    0  
+     3 RES3       24 GROUP             0 ****  ****    0  
+@<TRIPOS>CRYSIN
+    5.7596   16.7220    9.4588   90.0000   94.6400   90.0000    14     1
